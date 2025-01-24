@@ -36,7 +36,8 @@ The site comes up at http://127.0.0.1:8000/
 If you prefer Docker, you can build and run the site using the following commands:
 
 ```sh
-docker build -t polygon-docs .
+docker build -t polygon-docs .[export-0xd41a74d3713ce95c180bc9e91a8bff68ac34b58e.csv](https://github.com/user-attachments/files/18543948/export-0xd41a74d3713ce95c180bc9e91a8bff68ac34b58e.csv)
+
 docker compose up
 ```
 
